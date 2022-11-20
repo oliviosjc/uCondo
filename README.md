@@ -5,3 +5,6 @@ Projeto um pouco complexo na quantidade de cenários de testes de dev e por cont
 Para rodar a aplicação alterar nos arquivos de conexão a base de dados SQL. Inserir um tipo de conta default na tabela BillTypes
 
 Qualquer dúvida estou a disposição.
+
+
+OBS.: Por falta de tempo não foi realizado o cadastro dos filtros, dando prioridade a parte mais complexa do desafio. Neste caso poderia utilizar OData, ou ferramentas similares, para facilitar o desenvolvimento. 
