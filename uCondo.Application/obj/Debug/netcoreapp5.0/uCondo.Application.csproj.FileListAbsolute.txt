@@ -1,0 +1,15 @@
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\bin\Debug\netcoreapp5.0\uCondo.Application.deps.json
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\bin\Debug\netcoreapp5.0\uCondo.Application.dll
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\bin\Debug\netcoreapp5.0\ref\uCondo.Application.dll
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\bin\Debug\netcoreapp5.0\uCondo.Application.pdb
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\obj\Debug\netcoreapp5.0\uCondo.Application.csprojAssemblyReference.cache
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\obj\Debug\netcoreapp5.0\uCondo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\obj\Debug\netcoreapp5.0\uCondo.Application.AssemblyInfoInputs.cache
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\obj\Debug\netcoreapp5.0\uCondo.Application.AssemblyInfo.cs
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\obj\Debug\netcoreapp5.0\uCondo.Application.csproj.CoreCompileInputs.cache
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\obj\Debug\netcoreapp5.0\uCondo.Application.dll
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\obj\Debug\netcoreapp5.0\ref\uCondo.Application.dll
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\obj\Debug\netcoreapp5.0\uCondo.Application.pdb
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\bin\Debug\netcoreapp5.0\uCondo.Domain.dll
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\bin\Debug\netcoreapp5.0\uCondo.Domain.pdb
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Application\obj\Debug\netcoreapp5.0\uCondo.Application.csproj.CopyComplete

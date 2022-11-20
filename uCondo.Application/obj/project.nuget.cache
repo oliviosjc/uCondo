@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7j1BbAbfiArCa/+/AJOuAc0mLv4PbO8srHlCO21ljWfTp2x73u5g4n+SlR0myb9Ms497AwCMkgyMj1tZ2f4wEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olivi\\Documents\\uCondo\\uCondo\\uCondo.Application\\uCondo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olivi\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\olivi\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

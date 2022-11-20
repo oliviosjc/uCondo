@@ -1,0 +1,12 @@
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Infra\bin\Debug\netcoreapp5.0\uCondo.Infra.deps.json
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Infra\bin\Debug\netcoreapp5.0\uCondo.Infra.dll
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Infra\bin\Debug\netcoreapp5.0\ref\uCondo.Infra.dll
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Infra\bin\Debug\netcoreapp5.0\uCondo.Infra.pdb
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Infra\obj\Debug\netcoreapp5.0\uCondo.Infra.csprojAssemblyReference.cache
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Infra\obj\Debug\netcoreapp5.0\uCondo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Infra\obj\Debug\netcoreapp5.0\uCondo.Infra.AssemblyInfoInputs.cache
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Infra\obj\Debug\netcoreapp5.0\uCondo.Infra.AssemblyInfo.cs
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Infra\obj\Debug\netcoreapp5.0\uCondo.Infra.csproj.CoreCompileInputs.cache
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Infra\obj\Debug\netcoreapp5.0\uCondo.Infra.dll
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Infra\obj\Debug\netcoreapp5.0\ref\uCondo.Infra.dll
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Infra\obj\Debug\netcoreapp5.0\uCondo.Infra.pdb

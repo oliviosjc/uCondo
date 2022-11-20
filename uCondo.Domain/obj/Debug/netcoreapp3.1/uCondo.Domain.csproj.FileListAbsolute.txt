@@ -1,0 +1,9 @@
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Domain\bin\Debug\netcoreapp3.1\uCondo.Domain.deps.json
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Domain\bin\Debug\netcoreapp3.1\uCondo.Domain.dll
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Domain\bin\Debug\netcoreapp3.1\uCondo.Domain.pdb
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Domain\obj\Debug\netcoreapp3.1\uCondo.Domain.csprojAssemblyReference.cache
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Domain\obj\Debug\netcoreapp3.1\uCondo.Domain.AssemblyInfoInputs.cache
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Domain\obj\Debug\netcoreapp3.1\uCondo.Domain.AssemblyInfo.cs
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Domain\obj\Debug\netcoreapp3.1\uCondo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Domain\obj\Debug\netcoreapp3.1\uCondo.Domain.dll
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Domain\obj\Debug\netcoreapp3.1\uCondo.Domain.pdb

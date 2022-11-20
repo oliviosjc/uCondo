@@ -1,0 +1,4 @@
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Data\obj\Debug\netcoreapp3.1\uCondo.Data.csprojAssemblyReference.cache
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Data\obj\Debug\netcoreapp3.1\uCondo.Data.AssemblyInfoInputs.cache
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Data\obj\Debug\netcoreapp3.1\uCondo.Data.AssemblyInfo.cs
+C:\Users\olivi\Documents\uCondo\uCondo\uCondo.Data\obj\Debug\netcoreapp3.1\uCondo.Data.csproj.CoreCompileInputs.cache
